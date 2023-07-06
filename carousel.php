@@ -14,34 +14,19 @@ $carousel = "
             <div class='carousel-inner text-bg-dark' > <!-- Inner -->
             
                 <div class='carousel-item active'>
-                    <img src='img/imagem1.jpeg' class='img-fluid' >
-                    <div class='carousel-caption'>
-                        <h4>Item I</h4>
-                    </div>
+                    <img src='img/finans_desktop.png' class='img-fluid' >
                 </div>
                 <div class='carousel-item'>
-                    <img src='img/imagem2.jpeg' class='img-fluid'>
-                        <div class='carousel-caption'>
-                            <h4>Item II</h4>
-                        </div>
+                    <img src='img/spoti_clone_carousel_desktop.jpg' class='img-fluid'>
                 </div>
                 <div class='carousel-item'>
-                    <img src='img/imagem3.jpeg' class='img-fluid'>
-                        <div class='carousel-caption'>
-                            <h4>Item III</h4>
-                        </div>
+                    <img src='img/noticiascidades.png' class='img-fluid'>
                 </div>
                 <div class='carousel-item'>
-                    <img src='img/imagem4.jpeg' class='img-fluid'>
-                        <div class='carousel-caption'>
-                            <h4>Item IV</h4>
-                        </div>
+                    <img src='img/chalehotel.png' class='img-fluid'>
                 </div>
                 <div class='carousel-item'>
-                    <img src='img/imagem5.jpeg' class='img-fluid'>
-                        <div class='carousel-caption'>
-                            <h4>Item V</h4>
-                        </div>
+                    <img src='img/mobile_todos.png' class='img-fluid'>
                 </div>
             </div> <!-- Fim Inner -->
 
